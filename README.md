@@ -1,3 +1,5 @@
+## This fork is an attempt to implement auto trailing commas using dart format. To fix an already existing huge codebase, filled with dreaded code that splits into multiple lines without trailing commas.
+
 The dart_style package defines an automatic, opinionated formatter for Dart
 code. It replaces the whitespace in your program with what it deems to be the
 best formatting for it. Resulting code should follow the [Dart style guide][]
